@@ -1,0 +1,13 @@
+# FOLDER: /pc/choozdsk01/palomare/SiPM/SC_11-8-21_DC/
+# FILE: C1--Trig_SC1_OV3--
+
+# FOLDER: /pc/choozdsk01/palomare/SiPM/TT_FBK_02/DC/
+# FILE: OV25-sec-50-50us--
+
+FOLDER: /pc/choozdsk01/palomare/SiPM/Ganging_FBK_TT/OV7/DC/
+FILE: DC--
+
+# NEVENTS: 201
+NEVENTS: 51
+
+OUT_FILE: sipm_DC_filt.root
